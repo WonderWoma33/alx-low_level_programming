@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Enty point
+ *  main - Enty point
  *   
- * Return: Always 0 (Success)
+ *  Return: Always 0 (Success)
  */
 
 int main(void)
