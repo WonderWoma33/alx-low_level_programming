@@ -1,4 +1,7 @@
+
+
 #include <stdio.h>
+
 /**
  * main - Prints sized of characters
  *  
