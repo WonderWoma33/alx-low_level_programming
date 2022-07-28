@@ -23,6 +23,7 @@ _putchar('\n');
 free(str);
 }
 
+
 /**
  * mul - multiplies a char with a string and places the answer into dest
  * @n: char to multiply
@@ -58,6 +59,7 @@ return (NULL);
 return (dest);
 }
 
+
 /**
  * check_for_digits - checks the arguments to ensure they are digits
  * @av: pointer to arguments
@@ -92,6 +94,7 @@ for (i = 0; i < l; i++)
 str[i] = '0';
 str[i] = '\0';
 }
+
 
 /**
  * main - multiply two numbers
