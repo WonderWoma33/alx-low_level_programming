@@ -20,7 +20,7 @@ free(node);
 return (NULL);
 }
 node->value = strdup(value);
-if (node->value == NULL
+if (node->value == NULL)
 {
 free(node->key);
 free(node);
